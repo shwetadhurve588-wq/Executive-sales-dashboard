@@ -18,14 +18,15 @@ An interactive two-page Power BI report designed to track high-level sales KPIs 
 ### Page 1: Executive KPI Dashboard
 *Tracks core business metrics, revenue trends, regional performance, and visual KPIs.*
 
-![Page 1 Screenshot](page1_executive_dashboard.png)
+<img width="1333" height="748" alt="page 1 of exwcutive dashboard" src="https://github.com/user-attachments/assets/8a3ae0da-13e5-4c86-8ec5-41295ccffb59" />
 
 ---
 
 ### Page 2: Strategic Insights & Recommendations
 *Provides actionable business takeaways paired with a Scatter Plot mapping Profit Margin (%) against Discount levels.*
 
-![Page 2 Screenshot](page2_insights_recommendations.png)
+!<img width="1350" height="747" alt="page 2 of executive sales dashboard" src="https://github.com/user-attachments/assets/5ee378b7-e853-4c92-8535-e6d0b3e56c09" />
+
 
 ---
 
